@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CodeCombat
+title: codecombat
 ---
 
 網站名稱：CodeCombat
