@@ -52,3 +52,17 @@ title: About
     </tr>
   </tbody>
 </table>
+
+#### 計劃安排
+
++Linux 指令與基本操作
++網路概念
++Raspberry Pi
+
++影像製作與剪輯
+
++程式設計初探
++HTML, CSS, WORDPRESS
++PHP/MySQL 網頁程式設計
++MARKDOWN,Jekyll
+
