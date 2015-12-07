@@ -55,14 +55,15 @@ title: About
 
 #### 計劃安排
 
-+Linux 指令與基本操作
-+網路概念
-+Raspberry Pi
-
-+影像製作與剪輯
-
-+程式設計初探
-+HTML, CSS, WORDPRESS
-+PHP/MySQL 網頁程式設計
-+MARKDOWN,Jekyll
++ Week 1-3
+	- Linux 指令與基本操作
+	- 網路概念
+	- Raspberry Pi
++ Week 4-5
+	- 影像製作與剪輯
++ Week 6-10
+	- 程式設計初探
+	- HTML, CSS, Wordpress
+	- PHP/MySQL 網頁程式設計
+	- Markdown, Jekyll
 
