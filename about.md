@@ -7,6 +7,8 @@ title: About
   Hey there! We're ISGroup of Cixin Upper School.
 </p>
 
+----
+
 ### 104秋季
 
 <table>
@@ -52,6 +54,8 @@ title: About
     </tr>
   </tbody>
 </table>
+
+----
 
 #### 計劃安排
 
