@@ -4,6 +4,6 @@ title: CodeCombat
 ---
 
 + 網站名稱：CodeCombat
-+ 網站鏈結：[http://codecombat.com/](http://codecombat.com/ title="CodeCombat" target="_blank")
++ 網站鏈結：<http://codecombat.com/>
 
 `JavaScript` `CoffeeScript` `Lua` `Python`
