@@ -16,12 +16,12 @@ title: About
       <th>Subject</th>
     </tr>
   </thead>
-  <tfoot>
+  <tbody>
     <tr>
       <td>2015.09.30</td>
       <td>電腦硬體與作業系統</td>
     </tr>
-  </tfoot>
+  </tbody>
   <tbody>
     <tr>
       <td>2015.10.21</td>
@@ -39,12 +39,12 @@ title: About
       <th>Subject</th>
     </tr>
   </thead>
-  <tfoot>
+  <tbody>
     <tr>
       <td>2015.11.25</td>
       <td>Computer For Fun ?</td>
     </tr>
-  </tfoot>
+  </tbody>
   <tbody>
     <tr>
       <td>2015.12.09</td>
