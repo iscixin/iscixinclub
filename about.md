@@ -12,33 +12,20 @@ title: About
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>Date</th>
+      <th>Subject</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
+      <td>2015.09.30</td>
+      <td>電腦硬體與作業系統</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
+      <td>2015.10.21</td>
+      <td>Learning Online</td>
     </tr>
   </tbody>
 </table>
