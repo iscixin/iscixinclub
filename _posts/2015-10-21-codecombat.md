@@ -1,7 +1,8 @@
 ---
 layout: post
 title: CodeCombat
-tags: ['javascript', 'python', 'lua', 'coffeescript']
+categories : [lessons, beginner]
+tags: [javascript, python, lua, coffeescript]
 ---
 
 + 網站名稱：CodeCombat
