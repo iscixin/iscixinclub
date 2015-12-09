@@ -562,5 +562,5 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-.site-tag { display:inline; margin-left:2px; border:1px solid #eee; padding:5px;}
+.site-tag { display:inline-block; margin-right:3px; border:1px solid #eee; padding:5px;}
 .site-tag a { text-decoration: none; }
