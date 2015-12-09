@@ -5,6 +5,7 @@ title: All Tags
 
 <h3>Tags Cloud</h3>
 {% assign tags = site.tags | sort %}
+<div class="container">
 {% for tag in tags %}
  <span class="site-tag">
     <a href="/tags/{{ tag | first | slugify }}/"
@@ -13,3 +14,4 @@ title: All Tags
     </a>
  </span>
 {% endfor %}
+</div>
