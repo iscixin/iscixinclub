@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodeCombat
-categories : [lessons, beginner]
+categories : [lessons]
 tags: [javascript, python, lua, coffeescript]
 ---
 
