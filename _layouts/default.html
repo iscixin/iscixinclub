@@ -24,8 +24,9 @@
       </div>
 
       <div class="container">
+<h3>Tags Cloud</h3>
 {% for tag in site.tags %}
-    {{ tag | first }}
+    <a href="/tags/{{ tag | first | slugize }}/">{{ tag | first }}</a>
 {% endfor %}
       </div>
     </div>
