@@ -21,6 +21,3 @@ author:
 # Custom vars
 version:             1.0.0
 
-### jekyll tag
-tag_page_layout: tag
-tag_page_dir: _tags
