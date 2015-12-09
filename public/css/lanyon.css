@@ -562,4 +562,4 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-.site-tag a { padding: 4px; text-decoration:none; border:1px solid #eee;}
+.site-tag a { padding: 4px; text-decoration:none; border:1px solid #eee; display:inline-block; margin-left: 2px;}
