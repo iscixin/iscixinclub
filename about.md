@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 關於慈心資服社
 ---
 
 <p class="message">
