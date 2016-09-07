@@ -9,7 +9,7 @@ title:               ISClub of Cixin
 tagline:             '慈心高中資訊服務社'
 description:         ''
 url:                 ''
-baseurl:             'http://iscixin.github.io/iscixinclub'
+baseurl:             '/iscixinclub'
 paginate:            5
 
 # About/contact
